@@ -1,3 +1,5 @@
+#this code was implemented in python 3
+#Since this is just an demo version, the complexity is still high, readers can improve the code if you want
 import numpy as np
 def findEmptyCell(arr,x,y):
     for i in range(0,9):
