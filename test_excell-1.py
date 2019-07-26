@@ -11,11 +11,3 @@
 # print("Hello")
 # # sheet.write(0,1,'Hello!')
 # wb.save(filePath)
-
-import pandas as pd
-temp=pd.read(r'C:\Users\MyPC\Desktop\Self-study Schedule.xls')
-print(temp)
-print("hello")
-print("hello")
-print("hello")
-print("hello")
